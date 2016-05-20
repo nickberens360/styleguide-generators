@@ -64,6 +64,8 @@ This page aims to list these tools. If you know of other tools or have other fee
 
 [Demo](http://barebones.paulrobertlloyd.com/) | [Source](https://github.com/paulrobertlloyd/barebones) | **PHP, HTML patterns**
 
+### [Atomic Docs](http://atomicdocs.io/)
+> Atomic Docs is a frontend style guide generator and SASS component manager.
 
 ## Python / Flask
 
